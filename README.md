@@ -1,1 +1,2 @@
-# go-every-day
+
+[1.Go by Example](https://gobyexample.com/)
